@@ -1,15 +1,12 @@
 Type: Compendium
-Package: Compendium title
+Package: biner présentation
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
-    person(given = "Karthik",
-           family = "Ram",
-           role = c("aut", "cre"),
-           email = "karthik.ram@gmail.com",
-           comment = c(ORCID = "0000-0002-0233-1757"))
-Description: Compendium description
-License: MIT + file LICENSE
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: biner is a powerfull tools for making reproductible code, and
+    allow people to interact to your work
+License: What license it uses
 Depends: 
     dataRetrieval,
     dplyr,
